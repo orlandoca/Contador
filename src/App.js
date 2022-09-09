@@ -28,7 +28,7 @@ function App() {
           className='freecodecamp-logo'
           src={freeCodeCampLogo}
           alt='Logo de freeCodeCamp'/> */}
-          <h1><strong>CONTADOR DE CLICK</strong></h1>
+          <h2><strong><font color="white">CONTADOR DE CLICK</font></strong></h2>
       </div>
         <div className='contenedor-principal'>
           <Contador numeroClics= {numeroClics} />
